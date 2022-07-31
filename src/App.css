@@ -1,0 +1,12 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+
+.leaflet-container {
+  height: 200px;
+  width: 50%;
+  margin: 0 auto;
+  overflow: unset
+}
